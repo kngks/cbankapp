@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape android:shape = "oval">
+        <gradient android:angle="30"
+            android:startColor="#974ebd"
+            android:endColor="#5e4edd"/>
+    </shape>
+</item>
+    <item
+        android:drawable="@drawable/float_icon"
+        android:top="12dp"
+        android:right="12dp"
+        android:left="12dp"
+        android:bottom="12dp"/>
+</layer-list>
